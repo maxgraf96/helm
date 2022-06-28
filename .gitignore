@@ -28,3 +28,6 @@ build
 *.tar.gz
 Debug
 Release
+cmake-build-debug
+cmake-build-release
+.idea
